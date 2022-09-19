@@ -2,7 +2,7 @@
   "name": "whatsapp-app",
   "version": "0.1.0",
   "homepage": "https://chetan4728.github.io/react-whatsup",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
